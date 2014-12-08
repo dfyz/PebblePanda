@@ -1,0 +1,29 @@
+{
+    "appKeys": {
+        "TZ_NAME": 0,
+        "TZ_UTC_OFFSET": 1
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "ivan.komarov@dfyz.info",
+    "longName": "Panda",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[A-Za-z0-9\u0430-\u044f\u0410-\u042f\u0451\u0401 :,?!-./]",
+                "file": "fonts/PTS55F.ttf",
+                "name": "PT_SANS_24",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Panda",
+    "uuid": "241483a5-f261-4b41-bbec-4eb332218bf5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
